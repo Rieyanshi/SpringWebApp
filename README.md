@@ -1,6 +1,6 @@
 # SpringWebTelusko3
 
-SpringWebTelusko3 is a simple Spring Boot application that provides a RESTful API for managing products. It leverages Spring Web, JPA, and Hibernate to handle CRUD (Create, Read, Update, Delete) operations for the Product entity.
+SpringWebTelusko3 is a simple Spring Boot application that provides a RESTful API for managing products. It leverages Spring Web, JPA, PostgreSQL and Hibernate to handle CRUD (Create, Read, Update, Delete) operations for the Product entity.
 
 ## Features
 
@@ -19,6 +19,7 @@ SpringWebTelusko3 is a simple Spring Boot application that provides a RESTful AP
 - Spring Data JPA
 - Hibernate
 - H2 in-memory database
+- postgreSQL
 
 ## Getting Started
 
