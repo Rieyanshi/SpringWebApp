@@ -36,7 +36,7 @@ The API endpoints can be accessed using a tool like cURL or through a web browse
 - Retrieve all products: `GET http://localhost:8080/products`
 - Retrieve a specific product by name: `GET http://localhost:8080/products/{name}`
 
-##Screenshots
+## Screenshots
 ![Screenshot (338)](https://github.com/Rieyanshi/SpringWebApp/assets/86876634/aa6565c1-7096-49a6-ac1c-8961939fcb7b)
 ![Screenshot (339)](https://github.com/Rieyanshi/SpringWebApp/assets/86876634/02e3f95e-fcec-402c-bcc5-d5f9901e7485)
 ![Screenshot (342)](https://github.com/Rieyanshi/SpringWebApp/assets/86876634/b2606a21-9047-41a2-9e30-c895b2592f0c)
@@ -47,6 +47,3 @@ The API endpoints can be accessed using a tool like cURL or through a web browse
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
